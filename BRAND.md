@@ -26,12 +26,9 @@ Cut from the earlier draft: `#C9B37F` and `#590626` (too close to the other brow
 
 ## Fonts
 
-| Font | Where |
-|---|---|
-| Crimson Pro | Headings only |
-| Host Grotesk | Body text, buttons, labels, FAQ |
-
-Cut: Sorts Mill Goudy (one serif is enough).
+- Barlow Condensed, SemiBold 600: all headings (h1, h2, h3)
+- Archivo, Light 300 for body text and Regular 400 for buttons and nav links
+- DM Mono, Regular 400: small labels, the ingredient list, and FAQ questions
 
 ## What the page says
 
